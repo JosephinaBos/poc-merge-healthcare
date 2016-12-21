@@ -1,1 +1,1 @@
-web: gunicorn poc-merge-healthcare.wsgi --log-file -
+web: gunicorn poc_merge_healthcare:application
