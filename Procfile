@@ -1,1 +1,1 @@
-web: gunicorn poc_merge_healthcare:application
+web: python poc_merge_healthcare.py
